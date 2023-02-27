@@ -15,6 +15,6 @@ If an itemset is infrequent, all its supersets will be infrequent.
   <tr>
   </tr>
   <tr>
-    <td><img src="https://github.com/sakshi15ss/1913083_IT401/blob/main/set.png" alt="dataset" style="width:200px;height:420px;"></td>
+    <td><img src="https://github.com/sakshi15ss/1913083_IT401/blob/main/set.png" alt="dataset" style="width:350px;height:420px;"></td>
   </tr>
  </table>
